@@ -1,0 +1,5 @@
+invoice_id|product_id|quantity|unit_price
+1|P003|4|45.0
+2|P003|1|45.0
+3|P005|1|15.0
+4|P002|5|26.0
